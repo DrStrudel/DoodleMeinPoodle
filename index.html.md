@@ -2,13 +2,7 @@
 <html lang="en-US">
     <head>
         <meta charset="utf-8"/>
-        <style>
-            body{
-                padding: 0px;
-                margin: 0px;
-                background-color: #eee;
-            }
-        </style>
+		<link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body>
     <p color=#eee> Doodle </p>
