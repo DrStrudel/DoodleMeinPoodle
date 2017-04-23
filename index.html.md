@@ -6,5 +6,6 @@
     </head>
     <body>
     <p color=#eee> This is a paragraph. </p>
+    <p> This is another paragraph. </p>
     </body>
 </html>
