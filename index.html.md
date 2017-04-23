@@ -2,11 +2,7 @@
 <html lang="en-US">
     <head>
         <meta charset="utf-8"/>
-<<<<<<< HEAD
-		<link rel="stylesheet" type="text/css" href="style.css" />
-=======
-        <link rel="stylesheet" type="text/css" href="style.css" />
->>>>>>> origin/master
+	<link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body>
     <p color=#eee> This is a paragraph. </p>
