@@ -8,11 +8,9 @@
                 margin: 0px;
                 background-color: #eee;
             }
-            h1{
-            }
         </style>
     </head>
     <body>
-    <p> Doodle </p>
+    <p color=#eee> Doodle </p>
     </body>
 </html>
