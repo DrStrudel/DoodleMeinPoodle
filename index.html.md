@@ -11,6 +11,6 @@
         </style>
     </head>
     <body>
-    <p color=#eee> Doodle </p>
+    <p color=#eee> This is a paragraph. </p>
     </body>
 </html>
