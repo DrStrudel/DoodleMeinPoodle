@@ -4,27 +4,16 @@
         <meta charset="utf-8"/>
         <title>Länktest</title>
         <style>
+            body{
+                padding: 0px;
+                margin: 0px;
+                background-colour: #eee;
+            }
             h1{
-            color: <?php
-                echo $_GET["color"];
-            ?>;
             }
         </style>
     </head>
     <body>
-        <?php
-            if(isset($_GET["namn"])){
-                $namn=htmlspecialchars($_GET["namn"],ENT_QUOTES, "UTF-8");
-                echo "<h1> Hej ", $namn, "</h1>";
-            }
-            else{
-                 
-        ?>
-        <form action="" method="GET">
-            Namn: <input type="text" name="namn"><br />
-            Färg: <input type="text" name="color"><br>
-            <input type="submit" value="Send">
-        </form>
-        <?php } ?>
+    <p> Doodle </p1>
     </body>
 </html>
