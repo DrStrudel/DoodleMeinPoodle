@@ -7,7 +7,7 @@
             body{
                 padding: 0px;
                 margin: 0px;
-                background-colour: #eee;
+                background-color: #eee;
             }
             h1{
             }
