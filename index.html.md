@@ -5,6 +5,6 @@
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body>
-    <p color=#eee> Doodle </p>
+    <p color=#eee> This is a paragraph. </p>
     </body>
 </html>
