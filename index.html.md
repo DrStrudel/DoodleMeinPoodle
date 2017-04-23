@@ -2,7 +2,6 @@
 <html lang="en-US">
     <head>
         <meta charset="utf-8"/>
-        <title>Test</title>
         <style>
             body{
                 padding: 0px;
