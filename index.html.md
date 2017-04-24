@@ -2,15 +2,10 @@
 <html lang="en-US">
     <head>
         <meta charset="utf-8"/>
-        <style>
-            body{
-                padding: 0px;
-                margin: 0px;
-                background-color: #eee;
-            }
-        </style>
+	<link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body>
-    <p color=#eee> Doodle </p>
+    <p color=#eee> This is a paragraph. </p>
+    <p> This is another paragraph. </p>
     </body>
 </html>

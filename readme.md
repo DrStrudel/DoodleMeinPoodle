@@ -1,5 +1,3 @@
-# Titel
+# Forum Project
 
-## Subtitel
-
-#### Bold
+Creating a forum from scratch, with people who have never used HTML or CSS
