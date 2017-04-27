@@ -17,7 +17,7 @@
 	    <ul>
 	        <li><a href="index.html.md">Home</a></li>
 	        <!--Temporary name for wherever the main posts will be-->
-	        <li><a href="posts.html">Posts</a></li>
+	        <li><a href="posts.html.md">Posts</a></li>
 	        <!--Temporary name for about page describing the forum, including changenotes-->
 	        <li><a href="about.html">About</a></li>
 	        <!--More options for navigation can be added later-->
