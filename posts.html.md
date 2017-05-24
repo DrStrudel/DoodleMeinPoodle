@@ -27,21 +27,7 @@
 	<!--Where patchnotes will go, the front page of the website-->
 	<main>
             <!--Temporary post for style purposes, later we should implement a create new main post thingy-->
-	    <h2>4/19/2017 Patch Notes</h2>
-	    <p>
-	        <a href="http://forum.blackdesertonline.com/index.php?/topic/139248-patch-notes-april-19th-2017-updated/">
-		<img src="patchNotes.jpg" alt="Patch Notes" height="421" width="924">
-		</a>
-		<br>
-		Main Features of this update include:
-	    </p>
-	    <ul>
-		<li>Class changes to Tamer and Maewha</li>
-		<li>Kibelius Premium Outfits for most classes.</li>
-		<li>A new tier of Guild Elephant</li>
-	    </ul>
-	    <p>To read the Official Patchnotes click 
-	    <a href="http://forum.blackdesertonline.com/index.php?/topic/139248-patch-notes-april-19th-2017-updated/">here</a></p>
+	          <!--This is where to list of posts will be-->
 	</main>
 	
 	<!--Sidebar to stay updated with active events-->
